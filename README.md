@@ -1,16 +1,5 @@
 # clima
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is Weather app made using flutter
+ 
+ This app can fetch your current location data in the form of lat and long and using this data it makes a api call to the open weather map api and fetch the current weather data and show it in the screen ,it also has a feature where you can type out and search current weather data for a specific city.
